@@ -1,2 +1,8 @@
 # wp_view_count
-A plug in for WordPress which allows for counting and displaying the number of views on posts
+A plugin for WordPress which allows for counting and displaying the number of views on posts.
+
+additionally, a page dedicated to top 5 Posts is created in tools submenu, which allows to edit, and reset the views on the post. 
+
+Plugin allows translation, and is set to users cookies, not an individual entry in the post page.
+
+To use the plugin write [wp_view_count] shortcode in the text of the post.
