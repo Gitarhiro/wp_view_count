@@ -11,3 +11,5 @@ To use the plugin write [wp_view_count] shortcode in the text of the post.
 After adding the shortcode, the result should look like this:
 
 ![image](https://github.com/user-attachments/assets/45b02c72-85c1-483c-8e9f-71ffe2226d8f)
+
+This image displays a propper use of the shortcode, after translation by GTranslate plugin
